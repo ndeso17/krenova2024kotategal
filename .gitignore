@@ -1,0 +1,5 @@
+# Mengabaikan semua file .env di semua folder
+**/.env
+
+# Mengabaikan semua folder .vscode di semua folder
+**/.vscode/
